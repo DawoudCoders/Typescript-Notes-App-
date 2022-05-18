@@ -1,7 +1,7 @@
 A simple react/typescript notes app that allows a user to create and delete notes (not styled).
 
 To get started:
-- CLone repo
+- Clone repo
 - Run in command line "npm start"
 - A local version of the site should be opened in your browser
 
